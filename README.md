@@ -32,3 +32,10 @@ O objetivo foi transformar uma base de dados de vendas em um dashboard visual e 
 ## Arquivo
 
 - Desafio- DIO.xlsx
+
+---
+
+## Dashboard
+
+![Dashboard](dashboard.png)
+<img width="695" height="433" alt="Dash DIO" src="https://github.com/user-attachments/assets/72928a1f-ae1c-4e84-8a7b-c60ccf7a0b58" />
